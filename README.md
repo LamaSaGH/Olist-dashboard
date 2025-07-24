@@ -3,6 +3,14 @@
 This Power BI dashboard provides a comprehensive analysis of the Brazilian e-commerce market using data from **Olist**. It offers insights into orders, sales performance, customer behavior, product reviews, and seller activity. It serves as a valuable tool for business analysts, marketing teams, and decision-makers.
 
 ---
+## 🖼️ Dashboard Snapshots
+
+![Overview](overview.png)  
+![Customer Analysis](Olist%20customers.png)  
+![Review Analysis](Olist%20reviews.png)  
+![Seller Performance](Olist%20sellers.png)
+
+---
 
 ## 📌 Dashboard Overview
 
